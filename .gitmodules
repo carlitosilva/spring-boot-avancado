@@ -1,0 +1,15 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/carlitosilva/server.git
+[submodule "gateway"]
+	path = gateway
+	url = https://github.com/carlitosilva/gateway.git
+[submodule "usuario"]
+	path = usuario
+	url = https://github.com/carlitosilva/usuario.git
+[submodule "publicador"]
+	path = publicador
+	url = https://github.com/carlitosilva/publicador.git
+[submodule "notificador"]
+	path = notificador
+	url = https://github.com/carlitosilva/notificador.git
